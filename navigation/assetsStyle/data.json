@@ -1,0 +1,406 @@
+{
+  "а": {
+    "translations": [
+      {
+        "english": "a",
+        "part_of_speech": "article"
+      }
+    ],
+    "pronunciation": "a"
+  },
+  "баланд": {
+    "translations": [
+      {
+        "english": "tall",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "baland"
+  },
+  "дарс": {
+    "translations": [
+      {
+        "english": "lesson",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "dars"
+  },
+  "ёмон": {
+    "translations": [
+      {
+        "english": "sad",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "yomon"
+  },
+  "жаноб": {
+    "translations": [
+      {
+        "english": "sir/madam",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "janob"
+  },
+  "замон": {
+    "translations": [
+      {
+        "english": "time",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "zamon"
+  },
+  "иш": {
+    "translations": [
+      {
+        "english": "work",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "ish"
+  },
+  "йўқ": {
+    "translations": [
+      {
+        "english": "no",
+        "part_of_speech": "adverb"
+      }
+    ],
+    "pronunciation": "yo'q"
+  },
+  "катта": {
+    "translations": [
+      {
+        "english": "big",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "katta"
+  },
+  "лисанс": {
+    "translations": [
+      {
+        "english": "license",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "lisans"
+  },
+  "манзил": {
+    "translations": [
+      {
+        "english": "address",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "manzil"
+  },
+  "нарса": {
+    "translations": [
+      {
+        "english": "something",
+        "part_of_speech": "pronoun"
+      }
+    ],
+    "pronunciation": "narsa"
+  },
+  "ўқувчи": {
+    "translations": [
+      {
+        "english": "student",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "o'quvchi"
+  },
+  "пули": {
+    "translations": [
+      {
+        "english": "money",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "puli"
+  },
+  "расм": {
+    "translations": [
+      {
+        "english": "picture",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "rasm"
+  },
+  "савол": {
+    "translations": [
+      {
+        "english": "question",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "savol"
+  },
+  "аҳоли": {
+    "translations": [
+      {
+        "english": "population",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "aholi"
+  },
+  "бадал": {
+    "translations": [
+      {
+        "english": "in exchange for",
+        "part_of_speech": "preposition"
+      }
+    ],
+    "pronunciation": "badal"
+  },
+  "вазифа": {
+    "translations": [
+      {
+        "english": "task",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "vazifa"
+  },
+  "гардероб": {
+    "translations": [
+      {
+        "english": "wardrobe",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "garderob"
+  },
+  "давлат": {
+    "translations": [
+      {
+        "english": "state",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "davlat"
+  },
+  "ёриқ": {
+    "translations": [
+      {
+        "english": "snail",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "yorik"
+  },
+  "жинс": {
+    "translations": [
+      {
+        "english": "gender",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "jins"
+  },
+  "замча": {
+    "translations": [
+      {
+        "english": "padlock",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "zamcha"
+  },
+  "ибрат": {
+    "translations": [
+      {
+        "english": "example",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "ibrat"
+  },
+  "жадвал": {
+    "translations": [
+      {
+        "english": "schedule",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "jadval"
+  },
+  "қўзғолиш": {
+    "translations": [
+      {
+        "english": "conflict",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "qozg'olish"
+  },
+  "лампа": {
+    "translations": [
+      {
+        "english": "lamp",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "lampa"
+  },
+  "малака": {
+    "translations": [
+      {
+        "english": "skill",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "malaka"
+  },
+  "нафака": {
+    "translations": [
+      {
+        "english": "allowance",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "nafaka"
+  },
+  "ўзаро": {
+    "translations": [
+      {
+        "english": "together",
+        "part_of_speech": "adverb"
+      }
+    ],
+    "pronunciation": "ozaro"
+  },
+  "поя": {
+    "translations": [
+      {
+        "english": "moustache",
+        "part_of_speech": "noun"
+      }
+    ]
+  },
+  "рак": {
+    "translations": [
+      {
+        "english": "crayfish",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "rak"
+  },
+  "секин": {
+    "translations": [
+      {
+        "english": "slow",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "sekin"
+  },
+  "тушунча": {
+    "translations": [
+      {
+        "english": "feeling",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "tushuncha"
+  },
+  "улар": {
+    "translations": [
+      {
+        "english": "they",
+        "part_of_speech": "pronoun"
+      }
+    ],
+    "pronunciation": "ular"
+  },
+  "фарғона": {
+    "translations": [
+      {
+        "english": "Fergana",
+        "part_of_speech": "proper noun"
+      }
+    ],
+    "pronunciation": "farg'ona"
+  },
+  "хушбаҳт": {
+    "translations": [
+      {
+        "english": "pleasant",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "xushbahot"
+  },
+  "чизги": {
+    "translations": [
+      {
+        "english": "line",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "chizgi"
+  },
+  "шамол": {
+    "translations": [
+      {
+        "english": "wind",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "shamol"
+  },
+  "эркинлик": {
+    "translations": [
+      {
+        "english": "freedom",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "erkinlik"
+  },
+  "юмшатиш": {
+    "translations": [
+      {
+        "english": "agreement",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "yumshatish"
+  },
+  "забар": {
+    "translations": [
+      {
+        "english": "force",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "zabar"
+  },
+  "ҳайвон": {
+    "translations": [
+      {
+        "english": "animal",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "hayvon"
+  },
+  "қайтишиш": {
+    "translations": [
+      {
+        "english": "return",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "qaytishish"
+  }
+}
