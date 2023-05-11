@@ -278,14 +278,6 @@
     ],
     "pronunciation": "ozaro"
   },
-  "поя": {
-    "translations": [
-      {
-        "english": "moustache",
-        "part_of_speech": "noun"
-      }
-    ]
-  },
   "рак": {
     "translations": [
       {
@@ -402,5 +394,131 @@
       }
     ],
     "pronunciation": "qaytishish"
+  },
+  "айрилма": {
+    "translations": [
+      {
+        "english": "unique",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "ayrilma"
+  },
+  "безак": {
+    "translations": [
+      {
+        "english": "saddle",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "bezak"
+  },
+  "чечак": {
+    "translations": [
+      {
+        "english": "quilt",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "chechak"
+  },
+  "дид": {
+    "translations": [
+      {
+        "english": "heart",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "did"
+  },
+  "ерда": {
+    "translations": [
+      {
+        "english": "here",
+        "part_of_speech": "adverb"
+      }
+    ],
+    "pronunciation": "erda"
+  },
+  "фақат": {
+    "translations": [
+      {
+        "english": "only",
+        "part_of_speech": "adverb"
+      }
+    ],
+    "pronunciation": "faqat"
+  },
+  "ғимор": {
+    "translations": [
+      {
+        "english": "bucket",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "g'imor"
+  },
+  "ҳунар": {
+    "translations": [
+      {
+        "english": "art",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "hunar"
+  },
+  "интизор": {
+    "translations": [
+      {
+        "english": "patient",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "intizor"
+  },
+  "кетма": {
+    "translations": [
+      {
+        "english": "unyielding",
+        "part_of_speech": "adjective"
+      }
+    ],
+    "pronunciation": "ketma"
+  },
+  "лўлак": {
+    "translations": [
+      {
+        "english": "tulip",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "lulak"
+  },
+  "марказ": {
+    "translations": [
+      {
+        "english": "center",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "markaz"
+  },
+  "нисбатан": {
+    "translations": [
+      {
+        "english": "compared to",
+        "part_of_speech": "preposition"
+      }
+    ],
+    "pronunciation": "nisbatan"
+  },
+  "ўзгартириш": {
+    "translations": [
+      {
+        "english": "change",
+        "part_of_speech": "noun"
+      }
+    ],
+    "pronunciation": "ozgartirish"
   }
 }
