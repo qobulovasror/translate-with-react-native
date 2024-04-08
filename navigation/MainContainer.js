@@ -29,7 +29,7 @@ function MainContainer() {
         style={[
           styles.absolute,
           {
-            top: 10,
+            top: 60,
             zIndex: 10,
             right: 10,
             backgroundColor: "#1C50B5",
